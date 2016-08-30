@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Python v ČR bloguje</title><link href="http://blog.python.cz/" rel="alternate"></link><link href="http://blog.python.cz/feed.xml" rel="self"></link><id>http://blog.python.cz/</id><updated>2016-08-22T10:49:00+02:00</updated><entry><title>Splněný holčičí sen</title><link href="http://blog.python.cz/splneny-holcici-sen" rel="alternate"></link><published>2016-08-22T10:49:00+02:00</published><author><name>Lenka 'Zouví' Matějová</name></author><id>tag:blog.python.cz,2016-08-22:splneny-holcici-sen</id><summary type="html">&lt;div&gt;&lt;figure class="figure"&gt;&lt;a href="http://blog.python.cz/images/img_4184-min.jpg" target="_blank" title="Spolecna hardwarova"&gt;&lt;img alt="Spolecna hardwarova" src="http://blog.python.cz/images/thumbnails/img_4184-min.jpg" class="figure-img img-fluid img-rounded"&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;p&gt;V pátek 19. 8. 2016 proběhl ve Mšeném workshop pro Pyladies, na kterém jsme si my, holky, co se začaly učit programovat v Pythonu, vyzkoušely ovládat vývojovou desku s čipem ESP8266. Pokud vám to nic neříká, neděste se, taky jsme před workshopem vůbec netušily, o co jde. Je to počítačový čip, který lze ovládat pomocí MicroPythonu, což je takový zjednodušený Python. &lt;/p&gt;
+&lt;figure class="figure"&gt;&lt;a href="http://blog.python.cz/images/img_1186-min.jpg" target="_blank" title="Hardware pro PyLadies"&gt;&lt;img :center=":center" alt="Hardware pro PyLadies" src="http://blog.python.cz/images/thumbnails/img_1186-min.jpg" width="350px" class="figure-img img-fluid img-rounded"&gt;&lt;/a&gt;&lt;figcaption class="figure-caption"&gt;
+&lt;em&gt;Petr Viktorin nám to krásně naservíroval, abychom se v hloupých i chytrých destičkách všichni vyznali&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class="figure"&gt;&lt;a href="http://blog.python.cz/images/img_1190-min.jpg" target="_blank" title="Chetsheet made by Petr Viktorin"&gt;&lt;img :center=":center" alt="Chetsheet made by Petr Viktorin" src="http://blog.python.cz/images/thumbnails/img_1190-min.jpg" width="350px" class="figure-img img-fluid img-rounded"&gt;&lt;/a&gt;&lt;figcaption class="figure-caption"&gt;
+&lt;em&gt;připravil nám i skvělý cheatsheet&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class="figure"&gt;&lt;a href="http://blog.python.cz/images/img_1194-min.jpg" target="_blank" title="Hardware"&gt;&lt;img :center=":center" alt="Hardware" src="http://blog.python.cz/images/thumbnails/img_1194-min.jpg" width="350px" class="figure-img img-fluid img-rounded"&gt;&lt;/a&gt;&lt;figcaption class="figure-caption"&gt;
+&lt;em&gt;zátiší s hardwarem&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;A k čemu to je? Můžou se na to napojit různá světýlka, houkačky, tlačítka, blikačky, pás LED apod. Jak jsme se v praxi přesvědčily, dá se tím vykouzlit například překrásně barvená atmosféra pro grilovačku :), ale i celkem ohlušující randál, který kdekdo musí řešit špunty do uší. Některým holkám šlo hraní s „chytrými“ a „hloupými“ destičkami na jedničku, takže se těším, co z toho všechno vznikne. Vše nám skvěle a trpělivě vysvětloval Petr Viktorin, na kterém je znát pravé nadšení pro práci s hardwarem.&lt;/p&gt;
+&lt;p&gt;Jako malou mě hrozně fascinovalo pozorovat, jak táta pájí čipovou desku a napojuje na ni různé nožičky, případně propojuje různá místa čipu v jedno. Takže cílem bylo také vyzkoušet si to, dozvědět se o tom víc … a hlavně, naučit se pájet! V průběhu workshopu jsem zjistila, že touhu po pájení sdílí i ostatní účastnice workshopu, a tak jsme nakonec dostaly možnost se na to vrhnout! Díky, kluci!&lt;/p&gt;
+&lt;figure class="figure"&gt;&lt;a href="http://blog.python.cz/images/img_1207-min.jpg" target="_blank" title="Modre svetylko pro zacatek"&gt;&lt;img :center=":center" alt="Modre svetylko pro zacatek" src="http://blog.python.cz/images/thumbnails/img_1207-min.jpg" width="350px" class="figure-img img-fluid img-rounded"&gt;&lt;/a&gt;&lt;figcaption class="figure-caption"&gt;
+&lt;em&gt;pro zahřátí zkusíme nejprve jedno modré světýlko&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class="figure"&gt;&lt;a href="http://blog.python.cz/images/img_1208-min.jpg" target="_blank" title="Nela a jeji modre svetylko"&gt;&lt;img :center=":center" alt="Nela a jeji modre svetylko" src="http://blog.python.cz/images/thumbnails/img_1208-min.jpg" width="350px" class="figure-img img-fluid img-rounded"&gt;&lt;/a&gt;&lt;figcaption class="figure-caption"&gt;
+&lt;em&gt;Nela už ví, jak na to&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class="figure"&gt;&lt;a href="http://blog.python.cz/images/img_1212-min.jpg" target="_blank" title="Nadseni byli vsichni"&gt;&lt;img :center=":center" alt="Nadseni byli vsichni" src="http://blog.python.cz/images/thumbnails/img_1212-min.jpg" width="350px" class="figure-img img-fluid img-rounded"&gt;&lt;/a&gt;&lt;figcaption class="figure-caption"&gt;
+&lt;em&gt;nadšení byli všichni - malí programátoři, i ti velcí&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;Celá akce byla, díky skvělé Python komunitě a štědrému sponzorovi &lt;a href="https://www.nic.cz"&gt;CZ.NIC&lt;/a&gt;, který zasponzoroval veškerý hardware a oběd hladovým programátorkám, hrozně super. Nešlo by to ale bez nejlepší organizátorky Veroničky Gabrielové a dvou pánů Vysokých, kteří poskytli dokonalé zázemí. Někteří cyklo nadšenci se dali strhnout k hromadnému příjezdu na kolech, Štěpán Bechynský se ujal péče o strávníky a všechny zásobil přelahodnými pokrmy, večer jsme se všichni zahřáli za doprovodu několika ukulele u ohně a pěkně od plic si zapěli. Byl to fakt skvělý zážitek a jsem hrozně moc ráda, že jsem tam mohla být. Lidé kolem Pythonu jsou super, je s nimi sranda a člověk má mnohem větší motivaci se učit. A to je skvělý!&lt;/p&gt;
+&lt;p&gt;Počet úniků &lt;a href="https://en.wikipedia.org/wiki/Magic_smoke"&gt;magic smoke&lt;/a&gt;: pouze 2&lt;/p&gt;
+&lt;p&gt;Autoři fotek: &lt;a href="https://twitter.com/kvbik"&gt;kvbik&lt;/a&gt;, &lt;a href="https://twitter.com/honzajavorek"&gt;Honza Javorek&lt;/a&gt;, &lt;a href="https://www.facebook.com/veronika.gabrielova.7"&gt;Vochechule&lt;/a&gt;&lt;/p&gt;
+&lt;figure class="figure"&gt;&lt;a href="http://blog.python.cz/images/img_4119-min.jpg" target="_blank" title="Vochechule programuje"&gt;&lt;img :center=":center" alt="Vochechule programuje" src="http://blog.python.cz/images/thumbnails/img_4119-min.jpg" width="350px" class="figure-img img-fluid img-rounded"&gt;&lt;/a&gt;&lt;figcaption class="figure-caption"&gt;
+&lt;em&gt;Vochechule si to trochu vylepšila&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class="figure"&gt;&lt;a href="http://blog.python.cz/images/img_1215-min.jpg" target="_blank" title="Katka se k nam pridala uplne poprve"&gt;&lt;img :center=":center" alt="Katka se k nam pridala uplne poprve" src="http://blog.python.cz/images/thumbnails/img_1215-min.jpg" width="350px" class="figure-img img-fluid img-rounded"&gt;&lt;/a&gt;&lt;figcaption class="figure-caption"&gt;
+&lt;em&gt;Katka se k nám přidala úplně poprvé, Python Worshopy spojují lidi&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class="figure"&gt;&lt;a href="http://blog.python.cz/images/img_1218-min.jpg" target="_blank" title="Vytuneno"&gt;&lt;img :center=":center" alt="Vytuneno" src="http://blog.python.cz/images/thumbnails/img_1218-min.jpg" width="350px" class="figure-img img-fluid img-rounded"&gt;&lt;/a&gt;&lt;figcaption class="figure-caption"&gt;
+&lt;em&gt;Vochechulin tuning&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class="figure"&gt;&lt;a href="http://blog.python.cz/images/img_1253-min.jpg" target="_blank" title="LED pasek"&gt;&lt;img :center=":center" alt="LED pasek" src="http://blog.python.cz/images/thumbnails/img_1253-min.jpg" width="350px" class="figure-img img-fluid img-rounded"&gt;&lt;/a&gt;&lt;figcaption class="figure-caption"&gt;
+&lt;em&gt;a tak se přesuneme na LED pásky, motorky, bzučítka a jiná mučítka&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class="figure"&gt;&lt;a href="http://blog.python.cz/images/img_1271-min.jpg" target="_blank" title="Verca take sviti"&gt;&lt;img :center=":center" alt="Verca take sviti" src="http://blog.python.cz/images/thumbnails/img_1271-min.jpg" width="350px" class="figure-img img-fluid img-rounded"&gt;&lt;/a&gt;&lt;figcaption class="figure-caption"&gt;
+&lt;em&gt;Verča už také svítí - LED pásky měly úspěch (oproti bzučítkům)&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class="figure"&gt;&lt;a href="http://blog.python.cz/images/img_1302-min.jpg" target="_blank" title="Svitime a vymyslime figle"&gt;&lt;img :center=":center" alt="Svitime a vymyslime figle" src="http://blog.python.cz/images/thumbnails/img_1302-min.jpg" width="350px" class="figure-img img-fluid img-rounded"&gt;&lt;/a&gt;&lt;figcaption class="figure-caption"&gt;
+&lt;em&gt;svítíme už i barevně&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class="figure"&gt;&lt;a href="http://blog.python.cz/images/img_1321-min.jpg" target="_blank" title="Lekce pajeni s Honzou Cermakem"&gt;&lt;img :center=":center" alt="Lekce pajeni s Honzou Cermakem" src="http://blog.python.cz/images/thumbnails/img_1321-min.jpg" width="350px" class="figure-img img-fluid img-rounded"&gt;&lt;/a&gt;&lt;figcaption class="figure-caption"&gt;
+&lt;em&gt;Honza Čermák z CZ.NIC nám udělal odbornou přednášku ohledně pájení&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class="figure"&gt;&lt;a href="http://blog.python.cz/images/img_1329-min.jpg" target="_blank" title="Tak jsme si to take zkusily"&gt;&lt;img :center=":center" alt="Tak jsme si to take zkusily" src="http://blog.python.cz/images/thumbnails/img_1329-min.jpg" width="350px" class="figure-img img-fluid img-rounded"&gt;&lt;/a&gt;&lt;figcaption class="figure-caption"&gt;
+&lt;em&gt;a tak jsme si to také zkusily&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class="figure"&gt;&lt;a href="http://blog.python.cz/images/img_1332-min.jpg" target="_blank" title="Nela paji"&gt;&lt;img :center=":center" alt="Nela paji" src="http://blog.python.cz/images/thumbnails/img_1332-min.jpg" width="350px" class="figure-img img-fluid img-rounded"&gt;&lt;/a&gt;&lt;figcaption class="figure-caption"&gt;
+&lt;em&gt;Nelče to šlo hned od ruky&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class="figure"&gt;&lt;a href="http://blog.python.cz/images/img_1336-min.jpg" target="_blank" title="Verca paji"&gt;&lt;img :center=":center" alt="Verca paji" src="http://blog.python.cz/images/thumbnails/img_1336-min.jpg" width="350px" class="figure-img img-fluid img-rounded"&gt;&lt;/a&gt;&lt;figcaption class="figure-caption"&gt;
+&lt;em&gt;Verča pájí a pájí&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class="figure"&gt;&lt;a href="http://blog.python.cz/images/img_1337_min.jpg" target="_blank" title="Vochechule paji"&gt;&lt;img :center=":center" alt="Vochechule paji" src="http://blog.python.cz/images/thumbnails/img_1337_min.jpg" width="350px" class="figure-img img-fluid img-rounded"&gt;&lt;/a&gt;&lt;figcaption class="figure-caption"&gt;
+&lt;em&gt;i Vochechuli k tomu pustili - počet škod: 0&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class="figure"&gt;&lt;a href="http://blog.python.cz/images/img_1374-min.jpg" target="_blank" title="Stepan vari"&gt;&lt;img :center=":center" alt="Stepan vari" src="http://blog.python.cz/images/thumbnails/img_1374-min.jpg" width="350px" class="figure-img img-fluid img-rounded"&gt;&lt;/a&gt;&lt;figcaption class="figure-caption"&gt;
+&lt;em&gt;Štěpán Bechynský si vzal na starost kuchtění&lt;/em&gt;&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class="figure"&gt;&lt;a href="http://blog.python.cz/images/img_1408-min.jpg" target="_blank" title="Balonek tuning"&gt;&lt;img :center=":center" alt="Balonek tuning" src="http://blog.python.cz/images/thumbnails/img_1408-min.jpg" width="350px" class="figure-img img-fluid img-rounded"&gt;&lt;/a&gt;&lt;/figure&gt;&lt;/div&gt;</summary></entry><entry><title>Proč? Proto!</title><link href="http://blog.python.cz/proc-proto" rel="alternate"></link><published>2015-12-17T01:56:30+01:00</published><author><name>Honza Javorek</name></author><id>tag:blog.python.cz,2015-12-17:proc-proto</id><summary type="html">&lt;div&gt;&lt;p&gt;Před rokem a půl jsem napsal článek &lt;a href="http://blog.python.cz/proc-python"&gt;Proč Python?&lt;/a&gt; Je o tom, proč by si měl člověk vybrat Python jako svůj hlavní programovací jazyk. V textu naznačuji, že Python je jazyk jako každý jiný, a tak se na některé věci hodí víc, na některé míň, ale že bych si přál, aby se tím hlavním důvodem pro jeho výběr stala jeho skvělá, aktivní komunita.&lt;/p&gt;
+&lt;p&gt;Když máme ten konec roku, dovolím si tady trochu bilancovat a zhodnotit, jak se nám tato mise daří. Co se v roce 2015 událo?&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;Poznámka: řazení je chaotické&lt;/small&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Konalo se celkem 33 lokálních srazů ve 3 městech (&lt;a href="http://pyvo.cz/praha"&gt;12 v Praze&lt;/a&gt;, &lt;a href="http://pyvo.cz/brno"&gt;12 v Brně&lt;/a&gt;, &lt;a href="http://pyvo.cz/ostrava"&gt;9 v Ostravě&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Věčnou slávu si zaslouží hlavně: Jirka Bartoň, Kubík Vysoký, Aleš Zoulek, Tomáš Ehrlich, já, Milan Kubík, Petr Viktorin, Laco Krčmárik, Lumír Balhar.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Na srazech se zprovoznila &lt;a href="https://github.com/pyvec/bookshelf/"&gt;knihovnička&lt;/a&gt;, díky které můžou lidé prakticky po celé republice nabízet nebo si půjčovat knihy o Pythonu a přidružených technologiích.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Věčnou slávu si zaslouží hlavně Petr Viktorin.&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Tento článek je z dob kdy &lt;a href="http://blog.python.cz"&gt;blog.python.cz&lt;/a&gt; ještě neexistoval a původně vyšel na Honzově blogu. &lt;a href="http://honzajavorek.cz/blog/proc-proto.html"&gt;Můžete si ho dočíst tam!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</summary></entry><entry><title>Výzvy pro Pyvo</title><link href="http://blog.python.cz/vyzvy-pro-pyvo" rel="alternate"></link><published>2015-04-30T16:55:11+02:00</published><author><name>Honza Javorek</name></author><id>tag:blog.python.cz,2015-04-30:vyzvy-pro-pyvo</id><summary type="html">&lt;div&gt;&lt;p&gt;Dnes v Brně slavíme &lt;strong&gt;čtyři roky&lt;/strong&gt; od založení místního srazu příznivců programovacího jazyka Python. Srazu, který nazýváme Pyvo. Zábavné příhody o tom, jak k založení došlo jsem kolem sebe trousil celé čtyři roky, takže se v rámci tohoto článku z hlediska minulosti omezím spíš na bilancování toho, co se nám povedlo, a taky něco o cestě, kterou si myslím, že by mělo Pyvo kráčet do budoucna.&lt;/p&gt;
+&lt;h2 id="co-se-povedlo"&gt;Co se povedlo&lt;small class="permalink"&gt;&lt;a href="#co-se-povedlo" title="Trvalý odkaz na tento nadpis"&gt;#&lt;/a&gt;&lt;/small&gt;&lt;/h2&gt;
+&lt;p&gt;V Brně se za čtyři roky rozhodně podařilo &lt;strong&gt;vytvořit pravidelný sraz&lt;/strong&gt;, který sdružuje místní komunitu Pythonistů (a Rubystů). To samo o sobě není tak snadný úkol jak se zdá a je možná vlastně i dílem náhody, že zrovna nám v Brně se to povedlo. Myslel jsem si, že se tento úspěch dá snadno replikovat, ale zpětně vidím, že to není tak jednoduché a za každým funkčním srazem je ohromná spousta práce.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tento článek je z dob kdy &lt;a href="http://blog.python.cz"&gt;blog.python.cz&lt;/a&gt; ještě neexistoval a původně vyšel na Honzově blogu. &lt;a href="http://honzajavorek.cz/blog/vyzvy-pro-pyvo.html"&gt;Můžete si ho dočíst tam!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</summary></entry><entry><title>Proč pomáhat holkám do IT</title><link href="http://blog.python.cz/proc-pomahat-holkam-do-it" rel="alternate"></link><published>2015-04-19T16:00:11+02:00</published><author><name>Honza Javorek</name></author><id>tag:blog.python.cz,2015-04-19:proc-pomahat-holkam-do-it</id><summary type="html">&lt;div&gt;&lt;p&gt;Pomáhám při organizaci &lt;a href="http://djangogirls.org/prague/"&gt;Django Girls v Praze&lt;/a&gt;. Jak už to tak u mě bývá, dělám hlavně maskota a snažím se akci propagovat na sociálních sítích a podobně.&lt;/p&gt;
+&lt;p&gt;Django Girls jsou jednodenní workshop pro dámy, na kterém se mohou zadarmo naučit úplné základy programování a udělat si svou první webovou stránku v Djangu, resp. v &lt;a href="http://blog.python.cz/proc-python"&gt;programovacím jazyce Python&lt;/a&gt;. Je to koncept převzatý ze zahraničí, všechno je připravené a nachystané, &lt;a href="http://djangogirls.org/resources/"&gt;existují manuály i pro organizátory&lt;/a&gt;, takže proto pro nás bylo jednodušší se pustit do něčeho takového, než něco stavět na koleně. A i tak je to dost velká fuška!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tento článek je z dob kdy &lt;a href="http://blog.python.cz"&gt;blog.python.cz&lt;/a&gt; ještě neexistoval a původně vyšel na Honzově blogu. &lt;a href="http://honzajavorek.cz/blog/proc-pomahat-holkam-do-it.html"&gt;Můžete si ho dočíst tam!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</summary></entry><entry><title>Proč Python?</title><link href="http://blog.python.cz/proc-python" rel="alternate"></link><published>2014-05-29T01:56:30+02:00</published><author><name>Honza Javorek</name></author><id>tag:blog.python.cz,2014-05-29:proc-python</id><summary type="html">&lt;div&gt;&lt;p&gt;Občas se mě někdo zeptá, proč vlastně "kopu za Python". Co že je na něm tak úžasného. Zkusím to nějak sepsat.&lt;/p&gt;
+&lt;p&gt;Můžete mít rádi svou zahradní sekačku, ale stejně ji nepoužijete, když budete potřebovat míchat těsto na bábovku nebo vrtat poličku. Ačkoliv můžeme polemizovat nad tím, že pokud je programovací jazyk &lt;a href="https://cs.wikipedia.org/wiki/Turingovsk%C3%A1_%C3%BAplnost"&gt;Turing-complete&lt;/a&gt;, tak v něm lze teoreticky napsat cokoliv, asi se pragmaticky shodneme na tom, že s programovacími jazyky je to v něčem spíše jako s tou sekačkou a vrtačkou. Aplikace pro iOS je nejlepší psát v Objective-C, skriptování v prohlížeči se nejsnadněji dělá v JavaScriptu, ovladač k tiskárně se píše v C, atd.&lt;/p&gt;
+&lt;p&gt;Jenže pak máme ještě hromadu aplikací, kde to tak vyhraněné není, nebo je to minimálně sporné. Potom většinou nastupují emoce a sympatie. Řekněme třeba web. Web můžete udělat v PHP, Ruby, Pythonu, JavaScriptu/Node.js, Haskellu, ... Kvalita ekosystému, rychlost vývoje a podobné argumenty tady moc nehrají roli, protože když se to sečte a podtrhne, tak jsou ty technologie prostě srovnatelné. Áno, Node.js může být asynchronnější a rychlejší než třeba zrovna ten Python, ale zase si u něj nabijete čumák v něčem jiném - všechno má svá pro a proti. Ekonomicky je to prostě jedno - pokud tedy nebudeme uvažovat i to, jak je snadné najít na tu kterou technologii vývojáře, atd.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tento článek je z dob kdy &lt;a href="http://blog.python.cz"&gt;blog.python.cz&lt;/a&gt; ještě neexistoval a původně vyšel na Honzově blogu. &lt;a href="http://honzajavorek.cz/blog/proc-python.html"&gt;Můžete si ho dočíst tam!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</summary></entry><entry><title>Tři roky Pyvo + BRUG</title><link href="http://blog.python.cz/tri-roky-pyvo-brug" rel="alternate"></link><published>2014-04-26T14:57:17+02:00</published><author><name>Honza Javorek</name></author><id>tag:blog.python.cz,2014-04-26:tri-roky-pyvo-brug</id><summary type="html">&lt;div&gt;&lt;p&gt;&lt;em&gt;Varování: Tento článek obsahuje mnohokrát slovo radost.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Prý už jsem dlouho nic nenapsal na blog. Teď mě napadlo, co bych sem mohl napsat, ale nevím, jestli to není nějaká sebechvála nebo něco. Jenže z toho &lt;strong&gt;mám takovou radost, že se prostě neudržím&lt;/strong&gt;. Berte to třeba jako pozvánku na další &lt;a href="http://lanyrd.com/series/brno-pyvo/"&gt;Pyvo + BRUG&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Ve čtvrtek proběhlo další brněnské Pyvo + BRUG, tentokrát s podtitulem "překladačové". Překladače a vše kolem mám rád, takže jsem to téma měl v záloze už dlouho a těšil jsem se na něj, ale &lt;strong&gt;myslel jsem si, že nikoho dalšího to zase až tak moc nezajímá&lt;/strong&gt;, tak jsem se do toho nehrnul. Teď v dubnu jsem se odvážil a přichystali jsme to. Napsal jsem vytipovaným speakerům a kupodivu měli nakonec všichni čas a odvahu dorazit, byť dva byli až z nějaké větší vesnice u Dobrovíze nebo odkud... Organizace proběhla celkem bez zaváhání - jediné problémy, které jsme řešili, byly čeština versus angličtina a natáčení videa, což už je takový náš folklór, takže to neberu jako nic vážného. Na programu byly tři přednášky a jeden lightning talk:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="http://majda.cz/"&gt;David Majda&lt;/a&gt;&lt;/strong&gt; (&lt;a href="https://www.suse.com/cs-cz/"&gt;SUSE Linux&lt;/a&gt;): &lt;a href="http://pegjs.majda.cz/"&gt;PEG.js&lt;/a&gt;, Parser Generator for JavaScript&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="http://www.fit.vutbr.cz/~izemek/"&gt;Petr Zemek&lt;/a&gt;&lt;/strong&gt; (&lt;a href="http://www.fit.vutbr.cz/"&gt;FIT VUT&lt;/a&gt; + &lt;a href="http://www.avg.com/cz-cs/"&gt;AVG&lt;/a&gt;): &lt;a href="http://www.superlectures.com/barcampbrno2013/od-hamburgeru-ke-krave-aneb-jak-z-binarky-ziskat-zdrojak"&gt;Zpětný překlad - jak z binárky dostat zdroják&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="http://zdne.org/"&gt;Zdeněk Němec&lt;/a&gt;&lt;/strong&gt; (&lt;a href="http://apiary.io/"&gt;Apiary&lt;/a&gt;): Jak jsem vyráběl &lt;a href="https://github.com/apiaryio/snowcrash"&gt;Snowcrash&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href="http://encukou.cz/"&gt;Petr Viktorin&lt;/a&gt;&lt;/strong&gt; (&lt;a href="http://www.redhat.com/"&gt;Red Hat&lt;/a&gt;): &lt;a href="https://docs.python.org/3.5/library/ast.html"&gt;import ast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Tento článek je z dob kdy &lt;a href="http://blog.python.cz"&gt;blog.python.cz&lt;/a&gt; ještě neexistoval a původně vyšel na Honzově blogu. &lt;a href="http://honzajavorek.cz/blog/tri-roky-pyvo-brug.html"&gt;Můžete si ho dočíst tam!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</summary></entry><entry><title>Novoroční lednové pražské Pyvo</title><link href="http://blog.python.cz/novorocni-lednove-prazske-pyvo" rel="alternate"></link><published>2014-01-18T17:00:00+01:00</published><author><name>Jakub Vysoký</name></author><id>tag:blog.python.cz,2014-01-18:novorocni-lednove-prazske-pyvo</id><summary type="html">&lt;div&gt;&lt;p&gt;vsichni (vcetne me) meli po vanocich poradny abstak. dorazili jsme totiz
+asi v rekordnim poctu. seslo se nas urcite vic nez 40. ono je to ale moc
+dobre. zakladni temata typu &lt;a href="http://lanyrd.com/2014/praha-pyvo-january/"&gt;virtualenv a
+pip&lt;/a&gt; je potreba opakovat,
+aby packaging a bootstrap prestal byt postihovan &lt;a href="http://en.wikipedia.org/wiki/Not_invented_here"&gt;nih
+syndromem&lt;/a&gt; uz navzdy!&lt;/p&gt;
+&lt;p&gt;behem 4 delsich prednasek a 7 lightning talku se ani posluchaci
+neflakali - 2 sudy piva zkratka nestacily. peclive jsem cely vecer
+monitoroval, vsichni byli hodni, moc rychle se nepohybovali, takze na
+google plus panoramatku &lt;a href="https://plus.google.com/110682730627902704385/posts/ZMBqcTUqNKR"&gt;nejsou
+rozmazani&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;ja jsem ovsem i tak radeji zbabele utekl a kolem pulnoci jsem byl uz
+doma. abych ale nezustal nic dluzen, doplnil jsem vsechny speakry a
+lightning talkare do lanyrd schedule a &lt;a href="https://twitter.com/ajtea"&gt;martin
+bilek&lt;/a&gt; hned druhy den &lt;a href="http://www.youtube.com/playlist?list=PL7yZNWKe9iWUz3-Xrz6GhFNCR5YX5fjf_"&gt;kompletne zpracoval
+videa&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;vsem za vsechno diky a na videnou &lt;a href="https://foursquare.com/v/klub-na-v%C4%9Bne%C4%8Dku/4dd42e5a52b18e28aa0f1f6e"&gt;na
+venecku&lt;/a&gt;
+pristi mesic. &lt;a href="http://lanyrd.com/2014/praha-pyvo-february/"&gt;tema message
+queues&lt;/a&gt; nezni vubec
+nelakave!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tento článek je z dob kdy &lt;a href="http://blog.python.cz"&gt;blog.python.cz&lt;/a&gt; ještě neexistoval a původně vyšel na &lt;a href="https://github.com/kvbik/blogisek"&gt;Kubíkově GitHub blogu&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</summary></entry><entry><title>Prosincové pražské Pyvo</title><link href="http://blog.python.cz/prosincove-prazske-pyvo" rel="alternate"></link><published>2013-12-20T17:00:00+01:00</published><author><name>Jakub Vysoký</name></author><id>tag:blog.python.cz,2013-12-20:prosincove-prazske-pyvo</id><summary type="html">&lt;div&gt;&lt;p&gt;vcera &lt;a href="http://lanyrd.com/2013/praha-pyvo-december/"&gt;byl treti ctvrtek v
+mesici&lt;/a&gt; a ja misto toho,
+abych se pobudil s bolavou hlavou po spouste piv, jsem se probudil s
+hlavou nemocnou. to vite, takova &lt;a href="http://necyklopedie.wikia.com/wiki/Moribundus"&gt;zakerna rymicka a
+teplutka&lt;/a&gt; jednoho skoli.&lt;/p&gt;
+&lt;p&gt;a stalo se to zrovna tak blbe, ze jsem to vanocni pyvo zmeskal. dost me
+to mrzelo, protoze vanoce si delame takovy pekny, prineseme spoustu
+hardwaru, ktery jsme si treba prali pod stromecek a bylo nam jasny, ze
+nam ho nikdo nenadeli, tak jsme si ho pro jistotu objednali sami. at uz
+na adafruit.com, dx.com, ci jinych vyprodejich.&lt;/p&gt;
+&lt;p&gt;v brne na vanocnim srazu maji podobnou tradici. takovy vanocni hw uklid.
+kazdy prinese, co ma doma tak nejak navic a nevidi pro to v danou chvili
+vyuziti a treba to za neco pekneho jineho vymeni. takovy bazar. nicmene
+to jsme s alesem pro prahy zamitli, protoze my se rozhodne svych
+kabliku, redukci, starych apecek, ci dokonce notebooku zbavovat nemuzeme
+- nikdy nevite, kdy se neco z toho bude hodit.&lt;/p&gt;
+&lt;p&gt;ja jsem si objednal novy nexus, tak jsem ho chtel vzit, stopovat s nim
+lightning talky, aby se mi uz vsichni nesmali, ze k tomu staremu
+rozbitemu nosim porad externi klavesnici. pak jsem si v lidlu koupil
+velice vyhodne &lt;a href="http://imgflip.com/i/5kb8w"&gt;zasuvky na dalkove
+ovladani&lt;/a&gt;, ktere jsem sice jeste nestihl
+rozpohybovat arduinem, ale rozhodne se na to chystam a v neposledni rade
+jsem se tesil, ze prijede petr viktroin, kteremu jsem uz na poslednim
+prazskem pyvu nadelil prave moji externi klavesnici pod podminkou, ze z
+ni udela klavesnici bezdratovou...&lt;/p&gt;
+&lt;p&gt;nastesti mi &lt;a href="http://www.youtube.com/playlist?list=PL7yZNWKe9iWX5Kk7r-bKiTr_Q5H0AUNfL"&gt;martin bilek udelal
+radost&lt;/a&gt;,
+protoze nejen, ze na sraz prinesl kameru a vsechno to natocil, dokonce
+uz hned druhy den videa nastrihal a ja se ted jdu podivat, jak to s tou
+moji klavesnici dopadlo...&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tento článek je z dob kdy &lt;a href="http://blog.python.cz"&gt;blog.python.cz&lt;/a&gt; ještě neexistoval a původně vyšel na &lt;a href="https://github.com/kvbik/blogisek"&gt;Kubíkově GitHub blogu&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</summary></entry><entry><title>Májové pražské Pyvo</title><link href="http://blog.python.cz/majove-prazske-pyvo" rel="alternate"></link><published>2013-11-29T17:00:00+01:00</published><author><name>Jakub Vysoký</name></author><id>tag:blog.python.cz,2013-11-29:majove-prazske-pyvo</id><summary type="html">&lt;div&gt;&lt;p&gt;jak &lt;a href="https://twitter.com/lurkingideas"&gt;jirka @whiskybar barton&lt;/a&gt; rikal:
+"my cekali jaro a zatim prislo leto." a ten krasny teply vecer nam asi
+mirne narusil sraz. ty co neprisli, omlouva jedine to, ze sedeli nekde
+na zahradce, pili pivo a mysleli na nas ;)&lt;/p&gt;
+&lt;p&gt;seslo se nas ale nakonec vlastne celkem slusnych 15 pythonistu, z toho
+2x rubista jsou tak verni navstevnici, ze si zaslouzi byt zarazeni do
+skupiny. navic pepa liska sam rekl, ze s radosti bude jako kouc na
+libovolne #pyladies (ala #railsgirls) akci. tak ted uz jenom aby nekdo
+nejakou usporadal?&lt;/p&gt;
+&lt;p&gt;tema bylo #CMS (content management system), radek svarz a honza kral
+predstavili &lt;a href="http://mezzanine.jupo.org/"&gt;mezzanine&lt;/a&gt; a
+&lt;a href="https://github.com/ella/ella"&gt;ellu&lt;/a&gt;. doufali jsme, ze nam dorazi nekdo
+neco rict i o jinych, ale napriklad martin jahn behem sveho lightning
+talku o &lt;a href="http://wagtail.io/"&gt;wagtail&lt;/a&gt; sithnul zminit, ze &lt;a href="https://www.django-cms.org/en/"&gt;django
+cms&lt;/a&gt; ho nijak nenadchlo, cimz jsem dosel
+k zaveru, ze to asi nepouziva nikdo. petr viktorin nam zase
+lightningtalknul o static site generatoru
+&lt;a href="http://docs.getpelican.com/"&gt;pelican&lt;/a&gt;. jeho poznamka, ze pelican
+podporuje CNAME a 404 me trosku zarazila, ale vyjasnilo se, ze se jedna
+o podporu pro napr github pages hosting, kde uz nejaka ta dynamika
+prichazi ke slovu, nicmene &lt;a href="https://www.youtube.com/watch?v=kZZQLcM3P5U"&gt;fidorku za
+pozornost&lt;/a&gt; jsem nedostal..&lt;/p&gt;
+&lt;p&gt;parecky a chlebicky byly, zelena a pivo taky. mini diverzitu srazu
+podporila tyler z redhatu. a diky alespon tem 15ti nas z venecku
+nevyhnali pro slabou ucast ;)) diky za odvoz domu
+&lt;a href="https://plus.google.com/102589571514173655088/posts"&gt;tatinkovi&lt;/a&gt;. cca v
+pul treti jsem byl v posteli jako slusnej kluk. takze celkove prima
+vecer, diky vsem. jo a priste, zase treti stredu v mesici &lt;a href="http://lanyrd.com/2014/praha-pyvo-june/"&gt;cervnu tedy
+2014/6/18 na venecku&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tento článek je z dob kdy &lt;a href="http://blog.python.cz"&gt;blog.python.cz&lt;/a&gt; ještě neexistoval a původně vyšel na &lt;a href="https://github.com/kvbik/blogisek"&gt;Kubíkově GitHub blogu&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</summary></entry><entry><title>Pyvo v Ostravě</title><link href="http://blog.python.cz/pyvo-v-ostrave" rel="alternate"></link><published>2013-11-11T21:06:23+01:00</published><author><name>Honza Javorek</name></author><id>tag:blog.python.cz,2013-11-11:pyvo-v-ostrave</id><summary type="html">&lt;div&gt;&lt;p&gt;Možná jste to zaznamenali, možná ne, každopádně proběhlo minulý týden ve čtvrtek (tj. 7. 11.) &lt;strong&gt;první Pyvo v Ostravě&lt;/strong&gt;. Sponzorovaly jej &lt;strong&gt;dvě firmy&lt;/strong&gt;, byly dvě krátké &lt;strong&gt;přednášky&lt;/strong&gt; a přišlo kolem &lt;strong&gt;třiceti účastníků&lt;/strong&gt;, což považuji za velký úspěch. Akce byla totiž organizována poměrně &lt;em&gt;punkově&lt;/em&gt; a očekávání nebyla naprosto žádná. Místní příjemně překvapili a byl z toho parádní večer.&lt;/p&gt;
+&lt;p&gt;Za ty necelé tři roky, co v Brně pořádáme setkání přátel programovacího jazyka Python, se povedlo navázat vztahy s &lt;a href="http://lanyrd.com/series/praha-pyvo/"&gt;Prahou&lt;/a&gt;, &lt;a href="http://rubyslava.sk/"&gt;Bratislavou&lt;/a&gt; a dokonce i &lt;a href="http://vienna-rb.at/"&gt;Vídní&lt;/a&gt;. Sjednotili jsme komunitu, srazům jsme dali jednotnou značku, &lt;em&gt;Pyvo&lt;/em&gt;. Co mě ale mrzelo, byl fakt, že nemáme &lt;strong&gt;spřátelený sraz v Ostravě&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Půlku života jsem prožil v Karviné, městě pár kilometrů na východ od Ostravy, přímo na hranicích s Polskem. K "regionu razovitemu" mám tedy vztah a sám si moc dobře pamatuju, jak mě kdysi štvalo, že se všechno zajímavé děje jen v Praze, nanejvýš v Brně. Že jsme jen takovým ocáskem republiky, na který nikdo nikdy nepamatuje. Jako by tam nežilo &lt;a href="https://cs.wikipedia.org/wiki/Ostrava#cite_note-pocet_obyvatel-1"&gt;více než 500 000 obyvatel&lt;/a&gt;. Dnes už to tak tragické není - Ostrava hostí spoustu zajímavých akcí z nejrůznějších oblastí a některé &lt;a href="http://solocolours.cz/"&gt;koncerty&lt;/a&gt; aj. události se dokonce konají exkluzivně pouze tam. I srazů je tam &lt;a href="http://ovacom.cz/"&gt;nesčetně&lt;/a&gt;. Přesto ve mě ale dávná křivda doutnala...&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tento článek je z dob kdy &lt;a href="http://blog.python.cz"&gt;blog.python.cz&lt;/a&gt; ještě neexistoval a původně vyšel na Honzově blogu. &lt;a href="http://honzajavorek.cz/blog/pyvo-v-ostrave.html"&gt;Můžete si ho dočíst tam!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</summary></entry><entry><title>Proč překládat články</title><link href="http://blog.python.cz/proc-prekladat-clanky" rel="alternate"></link><published>2013-10-03T16:28:46+02:00</published><author><name>Honza Javorek</name></author><id>tag:blog.python.cz,2013-10-03:proc-prekladat-clanky</id><summary type="html">&lt;div&gt;&lt;p&gt;Před nedávnem jsem se rozhodl pro &lt;a href="http://www.zdrojak.cz/"&gt;Zdroják&lt;/a&gt; přeložit článek &lt;a href="http://me.veekun.com/blog/2012/05/05/python-faq-webdev/"&gt;Python FAQ: Webdev&lt;/a&gt; od &lt;a href="http://me.veekun.com/about/"&gt;Eeveeho&lt;/a&gt;. Výsledek dopadl nějak &lt;a href="http://www.zdrojak.cz/clanky/jak-napisu-webovou-aplikaci-v-pythonu/"&gt;takto&lt;/a&gt; (&lt;a href="http://www.zdrojak.cz/clanky/jak-napisu-webovou-aplikaci-v-pythonu-2/"&gt;druhý díl&lt;/a&gt;). Překlad měl celkem dost ohlasů a i počítadlo sdílení na Zdrojáku (které nevím jak funguje) hlásí 95 sdílení (a 35 sdílení druhého dílu), takže se to asi pár lidem líbilo.&lt;/p&gt;
+&lt;p&gt;Než jsem s dílem začal, položilo mi několik lidí následující otázku:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Proč se pouštět do překladu zahraničního článku, když je v angličtině a tu přece v IT umí každý?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Je to výborná otázka, protože v sobě skrývá pravdu, za kterou si stojím i já - &lt;strong&gt;v drtivé většině případů je překládání zahraničních odborných (!) článků opravdu nesmysl&lt;/strong&gt;. I ten, kdo anglicky neumí nijak dobře, naučil se v ní většinou alespoň číst (má-li tedy se svou IT profesí nějaké vážnější úmysly). Totiž ani zahraniční programátoři nejsou žádní spisovatelé a běžný blogpost na IT téma je tak stejně většinou akorát gulášem z dvaceti provařených slovíček, předložek a výrazů všeobecně známého slangu (ať žije &lt;em&gt;tůl&lt;/em&gt; a &lt;em&gt;exepšna&lt;/em&gt;). Lepší autoři přimíchají citoslovce, ale ty už dávno známe z komixů i my, kteří je nečteme.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tento článek je z dob kdy &lt;a href="http://blog.python.cz"&gt;blog.python.cz&lt;/a&gt; ještě neexistoval a původně vyšel na Honzově blogu. &lt;a href="http://honzajavorek.cz/blog/proc-prekladat-clanky.html"&gt;Můžete si ho dočíst tam!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</summary></entry><entry><title>Brněnské PyVo má nové kamarády</title><link href="http://blog.python.cz/brnenske-pyvo-ma-nove-kamarady" rel="alternate"></link><published>2013-04-08T14:17:24+02:00</published><author><name>Honza Javorek</name></author><id>tag:blog.python.cz,2013-04-08:brnenske-pyvo-ma-nove-kamarady</id><summary type="html">&lt;div&gt;&lt;p&gt;&lt;a href="http://lanyrd.com/2011/pyvo-april/"&gt;Osm lidí se 26. 4. 2011 setkalo&lt;/a&gt;
+v kavárně &lt;a href="http://www.falkcafe.cz/"&gt;Falk&lt;/a&gt; u jednoho z jejích kulatých stolů,
+aby si povídali o Pythonu. Tak nevinně to začalo! Na druhé PyVo jsme se
+přemístili jinam a připravili už dokonce i přednášky.&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;Mimochodem, našel jsem o tom
+&lt;a href="http://blog.python.cz/druhe-brnenske-pyvo"&gt;zápisek na blogu&lt;/a&gt;, který
+stojí za připomenutí - např. ona "návštěva z Finska", tedy Petr Viktorin,
+je dnes už spolupořadatelem celé akce. V komentářích zase Věroš zmiňuje
+telefonní ústřednu, kterou jsme zrovna teď v březnu viděli v akci přímo
+na stolech mezi půllitry :-)&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Rok poté jsme v lednu 2012 hostili &lt;strong&gt;zatím nejúspěšnější akci&lt;/strong&gt; -
+&lt;a href="http://lanyrd.com/2012/pyvo-january/"&gt;NoSQL PyVo&lt;/a&gt;, kde se nás sešlo přes
+třicet a přijeli návštěvníci ze Slovenska i z Prahy.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tento článek je z dob kdy &lt;a href="http://blog.python.cz"&gt;blog.python.cz&lt;/a&gt; ještě neexistoval a původně vyšel na Honzově blogu. &lt;a href="http://honzajavorek.cz/blog/brnenske-pyvo-ma-nove-kamarady.html"&gt;Můžete si ho dočíst tam!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</summary></entry><entry><title>Listopadové pražské Pyvo</title><link href="http://blog.python.cz/listopadove-prazske-pyvo" rel="alternate"></link><published>2012-11-29T17:00:00+01:00</published><author><name>Jakub Vysoký</name></author><id>tag:blog.python.cz,2012-11-29:listopadove-prazske-pyvo</id><summary type="html">&lt;div&gt;&lt;p&gt;&lt;a href="http://lanyrd.com/2013/praha-pyvo-november/"&gt;listopadove prazske
+#pyvo&lt;/a&gt; uz je tyden za
+nami, potreboval jsem sice cely vikend, abych dospal spankovy deficit,
+ale to jsem zdaleka neodchazel posledni. tentokrat nas &lt;a href="https://foursquare.com/v/klub-na-v%C4%9Bne%C4%8Dku/4dd42e5a52b18e28aa0f1f6e"&gt;na
+venecku&lt;/a&gt;
+nechali do rekordnich asi pul druhe, za coz moc dekujeme.&lt;/p&gt;
+&lt;p&gt;bylo to super! na posledni chvili jsme splasili &lt;a href="https://twitter.com/honzajavorek"&gt;honzu
+javorka&lt;/a&gt;, ktery nam zaplacnul diru po
+nemohoucim &lt;a href="https://twitter.com/rembish"&gt;alexovi&lt;/a&gt; - ten nam to povi
+jindy. prednasky byly nakonec pouze dve, takze bylo spoustu casu na &lt;a href="http://en.wikipedia.org/wiki/Lightning_talk"&gt;me
+oblibene lightning talky&lt;/a&gt;.
+vecer to byl zkratka rekordni se vsim vsudy, protoze lightning-talkeru
+se seslo celych 12.&lt;/p&gt;
+&lt;p&gt;v utrobach meho harddisku se skryva seznam, ktery vystavim asi jako
+&lt;a href="http://bit.ly/prpylight"&gt;google dokument&lt;/a&gt;, abychom ho mohli libovolne
+upravit a hlavne pak doplnit prednasejici na lanyrd.&lt;/p&gt;
+&lt;p&gt;krome toho, ze se v mezicase &lt;a href="http://lanyrd.com/2013/ostravske-pyvo-druhe/"&gt;vypravime do
+ostravy&lt;/a&gt;, si uz muzete
+zakrouzkovat termin vanocniho prazskeho pyva: 2013/12/18 - ale to je
+prece jasne, protoze ani tentokrat to neni jinak, nez &lt;strong&gt;treti streda v
+mesici&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;ps: lanyrd.com ma super ics export pro guide, kam hazeme &lt;a href="http://lanyrd.com/guides/pyvo/pyvo.ics"&gt;vsechny
+slovensko-ceska pyva&lt;/a&gt; a mne se
+indexuje jako &lt;a href="https://www.google.com/calendar/embed?src=6h72s1k6bun8omjopdcnqf0kjip2c9qe%40import.calendar.google.com&amp;amp;ctz=Europe/Prague"&gt;google
+kalendar&lt;/a&gt;,
+jestli si ho chcete pridat, staci kliknout. trosku debilni je, ze v tom
+ics exportu mizi probehnute akce a google je tudiz maze i v tom
+kalendari.. nevite nekdo, co s tim?&lt;/p&gt;
+&lt;p&gt;ps2: doslova par &lt;a href="https://plus.google.com/u/0/110682730627902704385/posts/PfKE5VgpJ67"&gt;fotek a komentare na g+
+prispevku&lt;/a&gt;,
+ciao..&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tento článek je z dob kdy &lt;a href="http://blog.python.cz"&gt;blog.python.cz&lt;/a&gt; ještě neexistoval a původně vyšel na &lt;a href="https://github.com/kvbik/blogisek"&gt;Kubíkově GitHub blogu&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</summary></entry><entry><title>Jaké bude příští PyVo</title><link href="http://blog.python.cz/jake-bude-pristi-pyvo" rel="alternate"></link><published>2012-09-29T14:13:20+02:00</published><author><name>Honza Javorek</name></author><id>tag:blog.python.cz,2012-09-29:jake-bude-pristi-pyvo</id><summary type="html">&lt;div&gt;&lt;p&gt;Ve čtvrtek 27. 9. proběhlo po delší odmlce &lt;a href="http://srazy.info/brnenske-pyvo/2656"&gt;setkání vývojářů v Pythonu, PyVo&lt;/a&gt;. Pořadovým číslem už deváté.&lt;/p&gt;
+&lt;p&gt;Devět setkání nad pivem a s přednáškami, to už se dá považovat za nějakou tradici. No a když už je v nějakém setkávání tradice, začne se od něj něco očekávat. Lidé očekávají nějakou kvalitu přednášek, očekávají nějaký servis (jídlo, pití, wifi, klidný salonek), očekávají, že vše proběhne tak jak má. Už se nepromíjí chybky, kterým se dříve desítka Pythonistů nad pivem spíš jen zasmála. Jakmile jsou návštěvníci v očekávání, mizí z akce tzv. pořadatelský punk. A s jeho mizením mizí i lehkost, s jakou může pořadatel akci dělat.&lt;/p&gt;
+&lt;p&gt;Nutně si pak musím položit otázku, co s PyVem zamýšlím. Jestli z něj chci dělat seriózní "minikonferenci", nebo zda bych raději pořádal nezávazný pokec u piva. Potíž je v tom, že v tom prvním případě si organizace takové akce žádá mnohem víc energie a zařizování. Musím připomenout, že to zatím stále dělám sám a také zadarmo, ve volném čase a z čisté radosti. Abych pokračoval, musí to něco dát i mě.&lt;/p&gt;
+&lt;p&gt;V následujících odstavcích vám tedy nastíním nějakou svou vizi. Částečně vykrystalizovanou jednotlivými PyVy, částečně založenou na zpětné vazbě, kterou jsem posbíral ve čtvrtek.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tento článek je z dob kdy &lt;a href="http://blog.python.cz"&gt;blog.python.cz&lt;/a&gt; ještě neexistoval a původně vyšel na Honzově blogu. &lt;a href="http://honzajavorek.cz/blog/jake-bude-pristi-pyvo.html"&gt;Můžete si ho dočíst tam!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</summary></entry><entry><title>Druhé brněnské PyVo</title><link href="http://blog.python.cz/druhe-brnenske-pyvo" rel="alternate"></link><published>2011-06-14T17:00:00+02:00</published><author><name>Honza Javorek</name></author><id>tag:blog.python.cz,2011-06-14:druhe-brnenske-pyvo</id><summary type="html">&lt;div&gt;&lt;p&gt;Kamarád &lt;a href="http://twitter.com/svecmichal"&gt;Michal Švec&lt;/a&gt; se na Twitteru zmínil o &lt;strong&gt;setkání programátorů&lt;/strong&gt; v Ruby a já se zeptal, jestli něco takového není i pro Python. Prý nikde nic, tak že to mám zorganizovat. A že prý nevadí, když tam o tom Pythonu budu vědět ze všech nejméně :)&lt;/p&gt;
+&lt;p&gt;No a tak se stalo. Nejdříve jsem navázal spolupráci se &lt;a href="http://on.fb.me/pyoneers"&gt;slovenskými Pyonýry&lt;/a&gt; pod taktovkou &lt;a href="http://twitter.com/synopsi"&gt;Synopsiho&lt;/a&gt;, dohodlo se první setkání jen tak v kroužku u piva a když šel vidět zájem a nadšení, začali jsme s &lt;a href="https://twitter.com/michaljanik"&gt;Michalem Janíkem&lt;/a&gt;, jenž mi nabídl pomoc při zařizování, plánovat něco většího.&lt;/p&gt;
+&lt;p&gt;A já jsem moc rád, že to včera proběhlo, že to byla zábava, že se to líbilo a že jsme se něco nového přiučili a poznali nové lidi.&lt;/p&gt;
+&lt;p&gt;Předně bych chtěl poděkovat už zmiňovanému &lt;a href="http://www.michaljanik.cz/"&gt;Michalovi&lt;/a&gt;, který mi pomohl s organizací. Rozdělili jsme si úlohy asi tak, že on zajistil infrastrukturu a já dělal propagaci a zajistil přednášky.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tento článek je z dob kdy &lt;a href="http://blog.python.cz"&gt;blog.python.cz&lt;/a&gt; ještě neexistoval a původně vyšel na Honzově blogu. &lt;a href="http://honzajavorek.cz/blog/druhe-brnenske-pyvo.html"&gt;Můžete si ho dočíst tam!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;</summary></entry></feed>
